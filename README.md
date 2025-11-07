@@ -7,6 +7,8 @@ no unlisened drivers -> no AC detection
 
 
 ESP32S3 cant use 2 Type-c ports one time
+
 Using UART TTL -> for connection to program
+
 OTG Type-c -> emulation
 ![board](https://github.com/user-attachments/assets/62ca6280-b628-44e0-b383-38c3eb5d4d5c)
